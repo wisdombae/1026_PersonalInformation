@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">1026_PersonalInformation</string>
+    <string name="hintname">이름을 입력하세요</string>
+    <string name="hintage">나이를 입력하세요</string>
+    <string name="RadioButtonSex1">여자</string>
+    <string name="RadioButtonSex2">남자</string>
+    <string name="RadioButtonJob1">학생</string>
+    <string name="RadioButtonJob2">직장인</string>
+    <string name="ButtonName">이름보기</string>
+    <string name="Buttonage">나이보기</string>
+    <string name="ButtonAll">결과보기</string>
+    <string name="TextViewName">이름</string>
+    <string name="TextViewAge">나이</string>
+    <string name="TextViewSex">성별</string>
+    <string name="TextViewJob">직업</string>
+    <string name="TextViewInformation">정보</string>
+</resources>
